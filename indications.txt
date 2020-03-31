@@ -1,0 +1,2 @@
+Le notebook contient l'ensemble du code avec des exemples.
+Les fichiers .py contiennent le code des différents modules (avec des annotations).
